@@ -12,11 +12,11 @@ npm start
 ```
 
 In another terminal, run the frontend
-
+```
 cd frontend
 npm install
 npm start
-
+```
 
 For this assignment, you are required to make a web app with:
 
