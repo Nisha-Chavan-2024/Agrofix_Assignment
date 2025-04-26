@@ -5,11 +5,11 @@ Web application based on MERN stack - MongoDB, Express.js, React.js, and Node.js
 ## HOW TO RUN
 
 In another terminal, run the backend
-
+```
 cd backend
 npm install
 npm start
-
+```
 
 In another terminal, run the frontend
 
